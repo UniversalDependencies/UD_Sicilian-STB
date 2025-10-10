@@ -35,7 +35,7 @@ UPOS: manual native
 XPOS: not available
 Features: manual native
 Relations: manual native
-Contributors: Bosco, Cristina; Di Nuovo, Elisa; Guglielmetti, Mario; Cappello, Caterina Maria
+Contributors: Bosco, Cristina; D'Alì, Sabrina; Di Nuovo, Elisa; Guglielmetti, Mario; Cappello, Caterina Maria
 Contributing: here
 Contact: cristina.bosco@unito.it
 ===============================================================================
