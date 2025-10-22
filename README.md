@@ -1,6 +1,6 @@
 # Summary
 
-The Sicilian Treebank is a small parallel corpus of Sicilian texts with Italian translations. It includes both contemporary and folkloric materials. The Sicilian side was automatically parsed and then manually revised. The main focus is documenting typical morphosyntactic features of the written Sicilian.
+The Sicilian Treebank is a small parallel corpus of Sicilian texts, automatically parsed and then manually revised, with Italian translations. It includes both contemporary and folkloric materials. The main focus is documenting typical morphosyntactic features of the written Sicilian.
 
 # Introduction
 Sicilian-STB is the first treebank for the Sicilian language in the Universal Dependencies framework. It is a parallel resource aligned 1:1 at the sentence level between Sicilian and Italian. The texts included in this first release come from the Panzaredda website, as well as a third text consisting of 18 diatopic variants of the Sicilian legend of Colapisci. In the CoNLL-U files, each text includes a comment line at the beginning indicating the diatopic variant and, when available, the year of publication.
