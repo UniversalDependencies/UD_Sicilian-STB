@@ -4530,7 +4530,7 @@
 11	avi	aviri	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=1789:1791
 12	nciuria	inciuria	NOUN	S	Gender=Fem|Number=Plur	11	obj	_	SpaceAfter=No|TokenRange=1792:1802
 13	.	.	PUNCT	FS	_	11	punct	_	TokenRange=1802:1803
-14	Sicuru	sicuru	ADV	B	Gender=Masc|Number=Sing	21	advmod	_	TokenRange=1804:1810
+14	Sicuru	sicuru	ADV	B	_	21	advmod	_	TokenRange=1804:1810
 15-16	â	_	_	_	_	_	_	_	TokenRange=1811:1815
 15	a	a	ADP	E	_	18	case	_	_
 16	la	lu	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
@@ -4976,7 +4976,7 @@
 3	,	,	PUNCT	FF	_	2	punct	_	TokenRange=612:613
 4	adaciu	adaciu	ADJ	A	_	5	advmod	_	TokenRange=614:618
 5	adaciu	adaciu	ADV	B	_	9	advmod	_	SpaceAfter=No|TokenRange=619:624
-6	,	,	PUNCT	FF	_	2	punct	_	TokenRange=624:625
+6	,	,	PUNCT	FF	_	5	punct	_	TokenRange=624:625
 7	si	si	PRON	PC	Person=3|PronType=Prs	9	expl	_	Clitic=Yes|TokenRange=626:628
 8	nni	ni	PRON	PC	PronType=Prs	9	expl	_	Clitic=Yes|TokenRange=629:631
 9	jìu	jiri	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	TokenRange=632:636
