@@ -408,7 +408,7 @@
 7	vulivi	vuliri	AUX	VM	Mood=Ind|Number=Sing|Person=2|Tense=Imp|VerbForm=Fin	8	aux	_	TokenRange=20:26
 8	vìnniri	vinniri	VERB	V	VerbForm=Inf	14	advcl	_	TokenRange=27:34
 9	mancu	mancu	ADV	BN	PronType=Neg	10	advmod	_	TokenRange=35:42
-10	'mmazzatu	ammazzatu	ADJ	A	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	8	xcomp	_	SpaceAfter=No|TokenRange=43:48
+10	'mmazzatu	ammazzatu	ADJ	A	Gender=Masc|Number=Sing|VerbForm=Part	8	xcomp	_	SpaceAfter=No|TokenRange=43:48
 11	!	!	PUNCT	FS	_	8	punct	_	SpaceAfter=No|TokenRange=48:49
 12	»	»	PUNCT	FB	_	8	punct	_	TokenRange=49:50
 13	ci	ci	PRON	PC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	iobj	_	Clitic=Yes|TokenRange=51:54
