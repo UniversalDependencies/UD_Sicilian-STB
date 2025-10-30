@@ -4972,7 +4972,7 @@
 # text = U runfuliju, adaciu adaciu, si nni jìu jennu, ca a beḍḍa addurmisciuta si stava arrivutannu a dritta e a manca.
 # translation = Il russare, pian piano, se ne stava andando, perché la bella addormentata si stava rigirando a destra e a sinistra.
 1	U	lu	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	TokenRange=602:604
-2	runfuliju	runfuliju	NOUN	V	VerbForm=Inf	9	nsubj	_	SpaceAfter=No|TokenRange=605:612
+2	runfuliju	runfuliju	NOUN	V	_	9	nsubj	_	SpaceAfter=No|TokenRange=605:612
 3	,	,	PUNCT	FF	_	2	punct	_	TokenRange=612:613
 4	adaciu	adaciu	ADJ	A	_	5	advmod	_	TokenRange=614:618
 5	adaciu	adaciu	ADV	B	_	9	advmod	_	SpaceAfter=No|TokenRange=619:624
@@ -5207,7 +5207,7 @@
 11	la	la	PRON	PC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	13	obj	_	Clitic=Yes
 12	putiva	putiri	AUX	VM	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	13	aux	_	TokenRange=50:56
 13	vìdiri	vidiri	VERB	V	VerbForm=Inf	7	conj	_	TokenRange=57:63
-14	a	a	ADP	DD	_	16	det	_	TokenRange=64:70
+14	a	a	ADP	DD	_	16	case	_	TokenRange=64:70
 15	ssa	chissa	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	16	det	_	TokenRange=64:70
 16	casa	casa	NOUN	S	Gender=Fem|Number=Sing	13	obj	_	SpaceAfter=No|TokenRange=71:75
 17	.	.	PUNCT	FS	_	7	punct	_	SpaceAfter=No|TokenRange=75:76
