@@ -8579,7 +8579,7 @@
 4	,	,	PUNCT	FF	_	3	punct	_	TokenRange=4131:4132
 5-6	fàllu	_	_	_	_	_	_	_	_
 5	fal	fari	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=4133:4138
-6	lu	lu	VERB	V	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obj	_	TokenRange=4133:4138
+6	lu	lu	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obj	_	TokenRange=4133:4138
 7	pri	pri	ADP	E	_	8	case	_	TokenRange=4139:4142
 8	carità	carità	NOUN	S	Gender=Fem	5	nmod	_	SpaceAfter=No|TokenRange=4143:4149
 9	,	,	PUNCT	FF	_	5	punct	_	TokenRange=4149:4150
