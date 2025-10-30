@@ -7202,7 +7202,7 @@
 14	assummò	assummari	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	parataxis	_	TokenRange=3022:3028
 15	sula	sulu	ADJ	A	Gender=Fem|Number=Sing	14	xcomp	_	SpaceAfter=No|TokenRange=3029:3033
 16	,	,	PUNCT	FF	_	17	punct	_	TokenRange=3033:3034
-17	abbruciatizza	abbruciatu	ADJ	A	Degree=Dim|Gender=Fem|Number=Sing	15	conj	_	SpaceAfter=No|TokenRange=3035:3048
+17	abbruciatizza	abbruciatizzu	ADJ	A	Gender=Fem|Number=Sing	15	conj	_	SpaceAfter=No|TokenRange=3035:3048
 18	,	,	PUNCT	FF	_	21	punct	_	TokenRange=3048:3049
 19	e	e	CCONJ	CC	_	21	cc	_	TokenRange=3050:3051
 20	si	si	PRON	PC	Person=3|PronType=Prs	21	expl:impers	_	Clitic=Yes|TokenRange=3052:3054
@@ -7663,7 +7663,7 @@
 5	vitti	vidiri	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	TokenRange=678:682
 6	l'	lu	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	SpaceAfter=No|TokenRange=683:685
 7	acqua	acqua	NOUN	S	Gender=Fem|Number=Sing	5	obj	_	TokenRange=685:690
-8	russigna	russu	ADJ	A	Degree=Dim|Gender=Fem|Number=Sing	7	amod	_	SpaceAfter=No|TokenRange=691:699
+8	russigna	russignu	ADJ	A	Gender=Fem|Number=Sing	7	amod	_	SpaceAfter=No|TokenRange=691:699
 9	:	:	PUNCT	FC	_	5	punct	_	TokenRange=699:700
 10	e	e	CCONJ	CC	_	13	cc	_	TokenRange=701:702
 11	lu	lu	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	TokenRange=703:705
