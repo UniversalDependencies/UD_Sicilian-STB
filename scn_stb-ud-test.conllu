@@ -10557,7 +10557,7 @@
 14	avir	aviri	AUX	VA	VerbForm=Inf	16	aux	_	_
 15	li	li	PRON	PC	Gender=Masc|Number=Plur|Person=3|PronType=Prs	16	obj	_	Clitic=Yes
 16	firriatu	firriari	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	19	advcl	_	TokenRange=977:983
-17	tutti	tuttu	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	16	advmod	_	SpaceAfter=No|TokenRange=984:989
+17	tutti	tuttu	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	16	amod	_	SpaceAfter=No|TokenRange=984:989
 18	,	,	PUNCT	FF	_	16	punct	_	TokenRange=989:990
 19	vinni	veniri	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	conj	_	TokenRange=991:996
 20	a	a	ADP	E	_	21	case	_	TokenRange=997:998
