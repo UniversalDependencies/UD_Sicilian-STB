@@ -4626,7 +4626,7 @@
 42	na	unu	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	43	det	_	TokenRange=2181:2184
 43	scaciuni	scaciuni	NOUN	S	Gender=Fem|Number=Sing	4	parataxis	_	TokenRange=2185:2190
 44	pi	pi	ADP	E	_	46	mark	_	TokenRange=2191:2194
-45	mi	mi	PRON	PC	Number=Sing|Person=1|PronType=Prs	46	obj	_	Clitic=Yes|TokenRange=2195:2197
+45	mi	mi	PRON	PC	Number=Sing|Person=1|PronType=Prs	46	iobj	_	Clitic=Yes|TokenRange=2195:2197
 46	chiamari	chiamari	VERB	V	VerbForm=Inf	43	acl	_	TokenRange=2198:2206
 47	vurpi	vurpi	NOUN	S	_	46	obj	_	SpaceAfter=No|TokenRange=2207:2213
 48	»	»	PUNCT	FB	_	4	punct	_	SpaceAfter=No|TokenRange=2213:2214
@@ -4639,7 +4639,7 @@
 2	Ca	ca	SCONJ	CS	_	8	mark	_	TokenRange=2217:2220
 3	tu	tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	8	nsubj	_	TokenRange=2221:2223
 4	i	lu	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	TokenRange=2224:2226
-5	cristiani	cristianu	NOUN	S	Gender=Fem|Number=Plur	8	obj	_	TokenRange=2227:2234
+5	cristiani	cristianu	NOUN	S	Gender=Fem|Number=Plur	8	dislocated	_	TokenRange=2227:2234
 6	nun	nun	ADV	BN	PronType=Neg	8	advmod	_	TokenRange=2235:2238
 7	l'	li	PRON	PC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	obj	_	Clitic=Yes|TokenRange=2239:2241
 8	ajuti	ajutari	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No|TokenRange=2242:2247
@@ -5209,7 +5209,7 @@
 13	vìdiri	vidiri	VERB	V	VerbForm=Inf	7	conj	_	TokenRange=57:63
 14	a	a	ADP	DD	_	16	case	_	TokenRange=64:70
 15	ssa	chissa	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	16	det	_	TokenRange=64:70
-16	casa	casa	NOUN	S	Gender=Fem|Number=Sing	13	obj	_	SpaceAfter=No|TokenRange=71:75
+16	casa	casa	NOUN	S	Gender=Fem|Number=Sing	13	dislocated	_	SpaceAfter=No|TokenRange=71:75
 17	.	.	PUNCT	FS	_	7	punct	_	SpaceAfter=No|TokenRange=75:76
 18	»	»	PUNCT	FB	_	7	punct	_	SpaceAfter=No|TokenRange=76:77
 
