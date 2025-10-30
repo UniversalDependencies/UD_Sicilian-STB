@@ -8814,9 +8814,9 @@
 3	giustu	giustu	ADJ	A	Gender=Masc|Number=Sing	15	advmod	_	TokenRange=4998:5004
 4	ca	ca	SCONJ	CS	_	5	mark	_	TokenRange=5005:5008
 5	canuscia	canusciri	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	15	advcl	_	TokenRange=5009:5018
-6	puntu	puntu	NOUN	S	Gender=Masc|Number=Sing	5	obj	_	TokenRange=5019:5024
+6	puntu	puntu	NOUN	S	Gender=Masc|Number=Sing	5	obl	_	TokenRange=5019:5024
 7	pri	pri	ADP	E	_	8	case	_	TokenRange=5025:5028
-8	puntu	puntu	NOUN	S	Gender=Masc|Number=Sing	6	nmod	_	TokenRange=5029:5034
+8	puntu	puntu	NOUN	S	Gender=Masc|Number=Sing	6	fixed	_	TokenRange=5029:5034
 9	lu	lu	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	TokenRange=5035:5037
 10	funnu	funnu	NOUN	S	Gender=Masc|Number=Sing	5	obj	_	TokenRange=5038:5043
 11	di	di	ADP	E	_	13	case	_	TokenRange=5044:5046
