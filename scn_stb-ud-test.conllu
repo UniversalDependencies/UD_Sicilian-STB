@@ -8688,7 +8688,7 @@
 3	aspetta	aspittari	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	1	conj	_	SpaceAfter=No|TokenRange=4522:4529
 4	;	;	PUNCT	FC	_	1	punct	_	TokenRange=4529:4530
 5	ddoppu	doppu	ADP	E	_	7	mark	_	TokenRange=4531:4535
-6	tantu	tantu	ADV	B	Gender=Masc|Number=Sing|PronType=Ind	7	advmod	_	TokenRange=4536:4541
+6	tantu	tantu	ADV	B	_	7	advmod	_	TokenRange=4536:4541
 7	aspittari	aspittari	VERB	V	VerbForm=Inf	9	advcl	_	SpaceAfter=No|TokenRange=4542:4551
 8	,	,	PUNCT	FF	_	7	punct	_	TokenRange=4551:4552
 9	vittiru	vidiri	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	1	parataxis	_	TokenRange=4553:4559
@@ -8855,7 +8855,7 @@
 # translation = Per il tanto stare in acqua, questo Piscicola aveva la pelle tale e quale come un'aragosta.
 1	Di	di	ADP	E	_	3	case	_	TokenRange=5191:5193
 2	lu	lu	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	TokenRange=5194:5196
-3	tantu	tantu	ADV	B	Gender=Masc|Number=Sing|PronType=Ind	4	obl	_	TokenRange=5197:5202
+3	tantu	tantu	ADV	B	_	4	obl	_	TokenRange=5197:5202
 4	stari	stari	VERB	V	VerbForm=Inf	10	advcl	_	TokenRange=5203:5208
 5	'ntra	dintra	ADP	E	_	6	case	_	TokenRange=5209:5215
 6	l'	lu	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	SpaceAfter=No|TokenRange=5216:5218
@@ -10058,7 +10058,7 @@
 9	:	:	PUNCT	FC	_	8	punct	_	TokenRange=4120:4121
 10	—	—	PUNCT	FF	_	8	punct	_	TokenRange=4122:4123
 11	"	"	PUNCT	FB	_	17	punct	_	SpaceAfter=No|TokenRange=4124:4125
-12	Voi	voi	PROPN	S	Gender=Masc|Number=Sing	17	vocative	_	TokenRange=4125:4128
+12	Voi	voi	PROPN	S	_	17	vocative	_	TokenRange=4125:4128
 13	marinu	marinu	ADJ	A	Gender=Masc|Number=Sing	12	amod	_	SpaceAfter=No|TokenRange=4129:4135
 14	,	,	PUNCT	FF	_	12	punct	_	TokenRange=4135:4136
 15	m'	mi	PRON	PC	Number=Sing|Person=1|PronType=Prs	17	obj	_	Clitic=Yes|SpaceAfter=No|TokenRange=4137:4139
@@ -10488,7 +10488,7 @@
 # sent_id = colapisci_150
 # text = Piscicola la pigghiòni.
 # translation = Piscicola la prese.
-1	Piscicola	Piscicola	PROPN	S	Gender=Fem|Number=Sing	3	nsubj	_	TokenRange=738:747
+1	Piscicola	Piscicola	PROPN	S	_	3	nsubj	_	TokenRange=738:747
 2	la	la	PRON	RD	Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	det	_	TokenRange=748:750
 3	pigghiòni	pigghiari	VERB	S	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No|TokenRange=751:756
 4	.	.	PUNCT	FS	_	3	punct	_	TokenRange=756:757
