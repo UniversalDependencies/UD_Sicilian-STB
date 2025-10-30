@@ -520,7 +520,7 @@
 11	stracanciau	stracanciari	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No|TokenRange=1952:1961
 12	,	,	PUNCT	FF	_	11	punct	_	TokenRange=1961:1962
 13	adaciu	adaciu	ADJ	A	Gender=Masc|Number=Sing	14	amod	_	TokenRange=1963:1967
-14	adaciu	adaciu	ADV	B	Gender=Masc|Number=Sing	11	obl	_	SpaceAfter=No|TokenRange=1968:1973
+14	adaciu	adaciu	ADV	B	_	11	obl	_	SpaceAfter=No|TokenRange=1968:1973
 15	,	,	PUNCT	FF	_	11	punct	_	TokenRange=1973:1974
 16	nta	nta	ADP	E	_	18	case	_	TokenRange=1975:1977
 17	un	unu	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	18	det	_	TokenRange=1978:1980
