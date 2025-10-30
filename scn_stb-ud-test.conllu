@@ -919,7 +919,7 @@
 4	stricateḍḍa	stricatedda	NOUN	S	Gender=Fem|Number=Sing	9	obl	_	TokenRange=3347:3358
 5	accussì	accussì	ADV	B	_	6	advmod	_	TokenRange=3359:3363
 6	nica	nicu	ADJ	A	Gender=Fem|Number=Sing	4	amod	_	TokenRange=3364:3371
-7	pozzu	potiri	AUX	VM	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9	aux	_	TokenRange=3372:3378
+7	pozzu	putiri	AUX	VM	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9	aux	_	TokenRange=3372:3378
 8	macari	macari	ADV	B	_	9	advmod	_	TokenRange=3379:3384
 9	chiùdiri	chiudiri	VERB	V	VerbForm=Inf	0	root	_	TokenRange=3385:3393
 10	n'	unu	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	TokenRange=3394:3396
@@ -1500,7 +1500,7 @@
 12	èranu	essiri	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	13	cop	_	TokenRange=43:48
 13	cosi	cosa	NOUN	S	Gender=Fem|Number=Plur	6	conj	_	TokenRange=49:53
 14	ca	ca	PRON	PR	PronType=Rel	16	nsubj	_	TokenRange=54:57
-15	putìvanu	putìri	AUX	VM	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	16	aux	_	TokenRange=58:66
+15	putìvanu	putiri	AUX	VM	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	16	aux	_	TokenRange=58:66
 16	arrisòrbiri	arrisorbiri	VERB	V	VerbForm=Inf	13	acl:relcl	_	TokenRange=67:76
 17	autri	autru	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	16	obj	_	TokenRange=81:86
 18	i	lu	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	20	det	_	TokenRange=87:88
