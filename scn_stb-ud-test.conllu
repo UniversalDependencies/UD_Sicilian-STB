@@ -8425,7 +8425,7 @@
 13	"	"	PUNCT	FB	_	17	punct	_	SpaceAfter=No|TokenRange=3570:3571
 14	Cola	Cola	PROPN	SP	_	17	vocative	_	SpaceAfter=No|TokenRange=3571:3575
 15	,	,	PUNCT	FF	_	14	punct	_	TokenRange=3575:3576
-16	chi	chi	PRON	PR	PronType=Int	17	obj	_	TokenRange=3577:3580
+16	chi	chi	DET	DD	PronType=Int	17	det	_	TokenRange=3577:3580
 17	ha'	aviri	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	10	parataxis	_	TokenRange=3581:3584
 18	cosa	cosa	NOUN	S	Gender=Fem|Number=Sing	17	obj	_	SpaceAfter=No|TokenRange=3585:3589
 19	?	?	PUNCT	FS	_	17	punct	_	SpaceAfter=No|TokenRange=3589:3590
@@ -8593,7 +8593,7 @@
 17	la	la	PRON	PC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	19	obj	_	Clitic=Yes|TokenRange=4188:4190
 18	pò	putiri	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	aux	_	TokenRange=4191:4194
 19	fari	fari	VERB	V	VerbForm=Inf	5	advcl	_	TokenRange=4195:4199
-20	nuddu	nuddu	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	19	obj	_	SpaceAfter=No|TokenRange=4200:4207
+20	nuddu	nuddu	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	19	nsubj:outer	_	SpaceAfter=No|TokenRange=4200:4207
 21	"	"	PUNCT	FB	_	5	punct	_	SpaceAfter=No|TokenRange=4207:4208
 22	.	.	PUNCT	FS	_	5	punct	_	TokenRange=4208:4209
 
