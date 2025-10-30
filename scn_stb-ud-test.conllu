@@ -11175,7 +11175,7 @@
 # text = Fu tantu la valintizza di stu Gialanti, ca li Missinisi cci ficiru la statua, e cci la ficiru tantu a iddhu quantu ê Sireni.
 # translation = Fu tale il valore di questo Gialanti, che i Messinesi gli fecero la statua, e la fecero tanto a lui quanto alle Sirene.
 1	Fu	essiri	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	cop	_	TokenRange=3236:3238
-2	tantu	tantu	ADV	A	Number=Sing	0	root	_	TokenRange=3239:3243
+2	tantu	tantu	ADV	A	_	0	root	_	TokenRange=3239:3243
 3	la	lu	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	TokenRange=3244:3246
 4	valintizza	valintizza	NOUN	S	Gender=Fem|Number=Sing	2	nsubj	_	TokenRange=3247:3254
 5	di	di	ADP	E	_	7	case	_	TokenRange=3255:3257
