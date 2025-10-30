@@ -7226,7 +7226,7 @@
 38	.	.	PUNCT	FS	_	2	punct	_	TokenRange=3133:3134
 
 # sent_id = colapisci_55
-# text = Haju 'ntisu diri puru ca lu bracciu di la Citatedda è sustinutu di tri culonni, e una è caduta, una stà di càdiri e una è stabile: e sta cosa si sapi pi vucca di Cola Pisci. (Messina e Palermo)
+# text = Haju 'ntisu diri puru ca lu bracciu di la Citatedda è sustinutu di tri culonni, e una è caduta, una stà di càdiri e una è ferma: e sta cosa si sapi pi vucca di Cola Pisci. (Messina e Palermo)
 # translation = Ho sentito dire pure che il braccio della Cittadella è sostenuto da tre colonne, e una è caduta, una sta per cadere e una è stabile: e questa cosa si sa perché la disse Cola Pisci. (Messina e Palermo)
 1	Haju	aviri	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	aux	_	TokenRange=3135:3137
 2	'ntisu	intenniri	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	TokenRange=3138:3145
