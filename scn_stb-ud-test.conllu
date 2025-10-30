@@ -5454,7 +5454,7 @@
 4	forti	forti	ADV	B	_	3	advmod	_	TokenRange=2185:2190
 5	a	lu	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	TokenRange=2191:2193
 6	manu	manu	NOUN	S	Gender=Fem|Number=Sing	3	obj	_	TokenRange=2194:2198
-7	supra	supra	ADV	B	_	10	case	_	TokenRange=2199:2204
+7	supra	supra	ADV	B	ExtPos=Loc	10	case	_	TokenRange=2199:2204
 8-9	ô	_	_	_	_	_	_	_	TokenRange=2205:2207
 8	a	a	ADP	E	_	7	fixed	_	_
 9	lu	lu	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
