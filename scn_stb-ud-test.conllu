@@ -5384,7 +5384,7 @@
 8	lassatu	lassari	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	18	advcl	_	SpaceAfter=No|TokenRange=1929:1937
 9	,	,	PUNCT	FF	_	8	punct	_	TokenRange=1937:1938
 10	quannu	quannu	SCONJ	CS	_	11	mark	_	TokenRange=1939:1945
-11	cci	ci	PROPN	V	PronType=Prs	18	advcl	_	TokenRange=1946:1951
+11	cci	ci	PRON	V	PronType=Prs	18	advcl	_	TokenRange=1946:1951
 12	aviva	aviri	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	11	mark	_	TokenRange=1946:1951
 13	cinc'	cincu	NUM	N	NumType=Card	14	nummod	_	TokenRange=1952:1958
 14	anni	annu	NOUN	S	Gender=Masc|Number=Plur	11	obj	_	TokenRange=1959:1963
