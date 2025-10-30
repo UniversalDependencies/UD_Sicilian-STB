@@ -278,7 +278,7 @@
 # translation = Lo guardò dritto negli occhi.
 1	U	lu	PRON	PC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj	_	Clitic=Yes|TokenRange=0:2
 2	taliau	taliari	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=3:9
-3	drittu	dirittu	ADV	B	_  _	2	advmod	_	TokenRange=10:16
+3	drittu	dirittu	ADV	B	_	2	advmod	_	TokenRange=10:16
 4	nta	nta	ADP	E	_	6	case	_	TokenRange=17:23
 5	l'	lu	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	SpaceAfter=No|TokenRange=24:27
 6	occhi	occhiu	NOUN	S	Gender=Masc|Number=Plur	2	obl	_	SpaceAfter=No|TokenRange=28:33
