@@ -1021,7 +1021,7 @@
 30	la	la	PRON	PC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	29	obj	_	Clitic=Yes
 31	n'	unu	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	33	det	_	SpaceAfter=No|TokenRange=3778:3781
 32	autra	autru	ADJ	A	Gender=Fem|Number=Sing	33	amod	_	TokenRange=3781:3786
-33	màchina	màchina	NOUN	S	Gender=Fem|Number=Sing	29	obj	_	SpaceAfter=No|TokenRange=3787:3795
+33	màchina	màchina	NOUN	S	Gender=Fem|Number=Sing	29	dislocated	_	SpaceAfter=No|TokenRange=3787:3795
 34	!	!	PUNCT	FS	_	9	punct	_	TokenRange=3795:3796
 
 # sent_id = amarasapi_44
