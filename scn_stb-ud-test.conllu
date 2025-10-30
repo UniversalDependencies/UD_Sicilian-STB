@@ -11100,7 +11100,7 @@
 17-18	p''u	_	_	_	_	_	_	_	_
 17	p'	pi	ADP	A	_	19	case	_	TokenRange=2953:2958
 18	'u	lu	DET	A	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	TokenRange=2953:2958
-19	coddhu	coddu	NOUN	S	Gender=Masc|Number=Sing	16	obj	_	TokenRange=2959:2964
+19	coddhu	coddu	NOUN	S	Gender=Masc|Number=Sing	16	obl	_	TokenRange=2959:2964
 20	e	e	CCONJ	CC	_	23	cc	_	TokenRange=2965:2966
 21-22	p''i	_	_	_	_	_	_	_	TokenRange=2967:2972
 21	pi	pi	ADP	E	_	23	case	_	_
