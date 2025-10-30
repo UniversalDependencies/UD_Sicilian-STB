@@ -10186,7 +10186,7 @@
 13	Maistà	maistà	NOUN	S	Gender=Fem	16	vocative	_	SpaceAfter=No|TokenRange=4632:4638
 14	,	,	PUNCT	FF	_	13	punct	_	TokenRange=4638:4639
 15	m'	mi	PRON	PC	Number=Sing|Person=1|PronType=Prs	16	expl	_	Clitic=Yes|SpaceAfter=No|TokenRange=4640:4642
-16	aviti	aviti	AUX	V	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	9	parataxis	_	TokenRange=4643:4649
+16	aviti	aviri	AUX	V	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	9	parataxis	_	TokenRange=4643:4649
 17	a	a	PART	E	_	18	mark	_	TokenRange=4650:4651
 18	dari	dari	VERB	V	VerbForm=Inf	16	xcomp	_	TokenRange=4652:4656
 19	un	unu	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	20	det	_	TokenRange=4657:4659
