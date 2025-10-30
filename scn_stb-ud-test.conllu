@@ -2560,10 +2560,10 @@
 9	scutulànnu	scutulari	VERB	V	VerbForm=Ger	7	advcl	_	_
 10	lu	lu	PRON	PC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obj	_	Clitic=Yes
 11-12	pû	_	_	_	_	_	_	_	TokenRange=49:54
-11	pi	pi	ADP	E	_	14	case	_	_
-12	lu	lu	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
-13	cappottu	cappottu	NOUN	S	Gender=Fem|Number=Sing	10	nmod	_	SpaceAfter=No|TokenRange=55:63
-14	.	.	PUNCT	FS	_	2	punct	_	SpaceAfter=No|TokenRange=63:64
+11	pi	pi	ADP	E	_	13	case	_	_
+12	lu	lu	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	cappottu	cappottu	NOUN	S	Gender=Fem|Number=Sing	10	nmod	_	SpaceAfter=No
+14	.	.	PUNCT	FS	13	punct	_	SpaceAfter=No
 
 # sent_id = amarasapi_108
 # text = Ancora sulu i primi faviḍḍi èranu, ma pî cristiani chistu era u principiu dû Zuccu.
