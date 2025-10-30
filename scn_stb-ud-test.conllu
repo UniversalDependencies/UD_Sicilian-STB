@@ -3110,7 +3110,7 @@
 30	,	,	PUNCT	FF	_	36	punct	_	TokenRange=3017:3018
 31	ca	ca	SCONJ	CS	_	36	mark	_	TokenRange=3019:3022
 32	stu	chistu	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	33	det	_	TokenRange=3023:3029
-33	Natali	Natali	PROPN	SP	_	36	nsubj	_	TokenRange=3030:3036
+33	Natali	Natali	PROPN	SP	_	36	obl	_	TokenRange=3030:3036
 34	nuḍḍu	nuddu	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	36	nsubj	_	TokenRange=3037:3044
 35	ni	ni	PRON	PC	Number=Plur|Person=1|PronType=Prs	36	iobj	_	Clitic=Yes|TokenRange=3045:3047
 36	chiamau	chiamari	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	17	advcl	_	TokenRange=3048:3054
