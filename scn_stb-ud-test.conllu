@@ -7070,7 +7070,7 @@
 # sent_id = colapisci_50
 # text = Cola Pisci summuzzava, e vidia lu tuttu, ma 'un s'avia pututu pirsuadiri com'è ca lu mari fa stu jocu a stu puntu.
 # translation = Cola Pisci si tuffava, e vedeva il tutto, ma non si era potuto persuadere di come il mare facesse questo gioco in questo punto.
-1	Cola	Cola	PROPN	SP	Gender=Fem|Number=Sing	3	nsubj	_	TokenRange=2522:2526
+1	Cola	Cola	PROPN	SP	_	3	nsubj	_	TokenRange=2522:2526
 2	Pisci	Pisci	PROPN	SP	_	1	flat:name	_	TokenRange=2527:2532
 3	summuzzava	summuzzari	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|TokenRange=2533:2540
 4	,	,	PUNCT	FF	_	6	punct	_	TokenRange=2540:2541
