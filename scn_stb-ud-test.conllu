@@ -1236,7 +1236,7 @@
 # text = «Ti dumannu pirdunu, Giuvannuzza», ci dissi ridennu.
 # translation = «Ti chiedo perdono, Giuvannuzza», le disse ridendo.
 1	«	«	PUNCT	FB	_	3	punct	_	SpaceAfter=No|TokenRange=0:1
-2	Ti	ti	PRON	PC	Number=Sing|Person=2|PronType=Prs	3	obj	_	Clitic=Yes|TokenRange=1:3
+2	Ti	ti	PRON	PC	Number=Sing|Person=2|PronType=Prs	3	iobj	_	Clitic=Yes|TokenRange=1:3
 3	dumannu	dumannari	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=4:10
 4	pirdunu	pirdunu	NOUN	S	Gender=Masc|Number=Sing	3	obj	_	SpaceAfter=No|TokenRange=11:18
 5	,	,	PUNCT	FF	_	3	punct	_	TokenRange=18:19
