@@ -8950,7 +8950,7 @@
 43	sucau	sucari	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	31	conj	_	TokenRange=5596:5605
 44	'ntra	dintra	ADV	B	_	43	advmod	_	TokenRange=5606:5612
 45	un	unu	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	46	det	_	TokenRange=5613:5615
-46	dittu	dittu	NOUN	S	Gender=Masc|Number=Sing	43	obj	_	TokenRange=5616:5621
+46	dittu	dittu	NOUN	S	Gender=Masc|Number=Sing	43	obl	_	TokenRange=5616:5621
 47	e	e	CCONJ	CC	_	49	cc	_	TokenRange=5622:5623
 48	un	unu	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	49	det	_	TokenRange=5624:5626
 49	fattu	fattu	NOUN	S	Gender=Masc|Number=Sing	46	conj	_	SpaceAfter=No|TokenRange=5627:5632
