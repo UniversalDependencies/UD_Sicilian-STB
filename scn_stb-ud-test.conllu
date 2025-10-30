@@ -5731,7 +5731,7 @@
 2	"	"	PUNCT	FB	_	3	punct	_	SpaceAfter=No|TokenRange=348:349
 3-4	Dimmi	_	_	_	_	_	_	_	_
 3	di	diciri	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=349:354
-4 mi mi PRON PC Number=Sing|Person=1|PronType=Prs 3 expl _ Clitic=Yes|TokenRange=349:354
+4	mi	mi	PRON	PC	Number=Sing|Person=1|PronType=Prs	3	expl	_	Clitic=Yes|TokenRange=349:354
 5	:	:	PUNCT	FC	_	3	punct	_	TokenRange=354:355
 6	è	essiri	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	TokenRange=356:357
 7	veru	veru	ADJ	A	Gender=Masc|Number=Sing	3	parataxis	_	TokenRange=358:362
