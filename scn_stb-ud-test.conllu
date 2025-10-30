@@ -1502,7 +1502,7 @@
 14	ca	ca	PRON	PR	PronType=Rel	16	nsubj	_	TokenRange=54:57
 15	putìvanu	putiri	AUX	VM	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	16	aux	_	TokenRange=58:66
 16	arrisòrbiri	arrisorbiri	VERB	V	VerbForm=Inf	13	acl:relcl	_	TokenRange=67:76
-17	autri	autru	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	16	obj	_	TokenRange=81:86
+17	autri	autru	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	16	amod	_	TokenRange=81:86
 18	i	lu	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	20	det	_	TokenRange=87:88
 19	so	so	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	20	det:poss	_	TokenRange=89:93
 20	sintimenti	sintimentu	NOUN	S	Gender=Masc|Number=Plur	16	obj	_	SpaceAfter=No|TokenRange=94:104
