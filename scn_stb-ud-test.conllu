@@ -700,7 +700,7 @@
 4	lu	lu	PRON	PC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obj	_	Clitic=Yes|TokenRange=9:11
 5	visti	vidiri	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=12:17
 6	stu	chistu	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	7	det	_	TokenRange=18:24
-7	film	film	NOUN	S	Gender=Masc	5	obj	_	SpaceAfter=No|TokenRange=25:30
+7	film	film	NOUN	S	Gender=Masc	5	dislocated	_	SpaceAfter=No|TokenRange=25:30
 8	…	…	PUNCT	FS	_	5	punct	_	SpaceAfter=No|TokenRange=30:31
 9	»	»	PUNCT	FB	_	5	punct	_	TokenRange=31:32
 
