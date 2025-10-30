@@ -765,7 +765,7 @@
 4	di	di	ADP	E	_	5	case	_	TokenRange=22:24
 5	ncoḍḍu	incoddu	ADV	B	_	3	advmod	_	TokenRange=25:32
 6	e	e	CCONJ	CC	_	8	cc	_	TokenRange=33:34
-7	l'	lu	PRON	PC	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	obj	_	Clitic=Yes|SpaceAfter=No|TokenRange=35:37
+7	l'	lu	PRON	PC	Gender=Masc|Number=Sing|PronType=Prs	8	obj	_	Clitic=Yes|SpaceAfter=No|TokenRange=35:37
 8	abbrazzau	abbrazzari	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	conj	_	SpaceAfter=No|TokenRange=37:46
 9	.	.	PUNCT	FS	_	3	punct	_	TokenRange=46:47
 
