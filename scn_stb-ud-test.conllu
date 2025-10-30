@@ -7951,7 +7951,7 @@
 # sent_id = colapisci_74
 # text = Cola ubbidiu, e misi a natari 'ntunnu 'ntunnu a la Sicilia.
 # translation = Cola obbedì, e si mise a nuotare intorno alla Sicilia.
-1	Cola	cola	PROPN	S	Gender=Fem|Number=Sing	2	nsubj	_	TokenRange=1782:1786
+1	Cola	cola	PROPN	S	_	2	nsubj	_	TokenRange=1782:1786
 2	ubbidiu	ubbidiri	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No|TokenRange=1787:1793
 3	,	,	PUNCT	FF	_	5	punct	_	TokenRange=1793:1794
 4	e	e	CCONJ	CC	_	5	cc	_	TokenRange=1795:1796
@@ -8247,7 +8247,7 @@
 # sent_id = colapisci_82
 # text = Cola sammuzzò e quannu assummò vinni a diri ca nun avia pututu vìdiri funnu, picchì avia vistu 'na gran culonna di fumu chi niscia di sutta un scogghiu, e perciò l'acqui eranu lordi.
 # translation = Cola si tuffò e quando emerse disse che non aveva potuto vedere fondo, perché aveva visto una grande colonna di fumo che usciva da sotto uno scoglio, e perciò le acque erano torbide.
-1	Cola	Cola	PROPN	S	Gender=Fem|Number=Sing	2	nsubj	_	TokenRange=2912:2916
+1	Cola	Cola	PROPN	S	_	2	nsubj	_	TokenRange=2912:2916
 2	sammuzzò	sammuzzari	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	TokenRange=2917:2922
 3	e	e	CCONJ	CC	_	6	cc	_	TokenRange=2923:2924
 4	quannu	quannu	SCONJ	CS	_	5	mark	_	TokenRange=2925:2931
@@ -8550,7 +8550,7 @@
 40	"	"	PUNCT	FB	_	44	punct	_	SpaceAfter=No|TokenRange=4077:4078
 41	Cola	Cola	PROPN	SP	_	44	vocative	_	SpaceAfter=No|TokenRange=4078:4082
 42	,	,	PUNCT	FF	_	41	punct	_	TokenRange=4082:4083
-43	va	annari	AUX	VM	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	44	aux	_	TokenRange=4084:4086
+43	va	annari	VERB	VM	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	44	ccomp	_	TokenRange=4084:4086
 44-45	pigghiala	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=4087:4095
 44	pigghia	pigghiari	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	37	ccomp	_	_
 45	la	la	PRON	PC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	44	obj	_	Clitic=Yes
