@@ -7512,7 +7512,7 @@
 22	'un	nun	ADV	BN	PronType=Neg	23	advmod	_	TokenRange=102:105
 23	sàcciu	sapiri	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	19	advcl	_	TokenRange=106:108
 24	di	di	ADP	E	_	25	case	_	TokenRange=109:111
-25	chi	chi	PRON	CS	_	23	obl	_	SpaceAfter=No|TokenRange=112:115
+25	chi	chi	PRON	CS	PronType=Int	23	obl	_	SpaceAfter=No|TokenRange=112:115
 26	,	,	PUNCT	FF	_	25	punct	_	TokenRange=115:116
 27	ca	ca	SCONJ	CS	_	31	mark	_	TokenRange=117:120
 28	idda	idda	PRON	PE	Gender=Fem|Number=Sing|Person=3|PronType=Prs	31	nsubj	_	TokenRange=121:124
@@ -7971,7 +7971,7 @@
 1	Ddoppu	doppu	ADP	E	_	3	case	_	TokenRange=1843:1847
 2-3	'napocu	_	_	_	_	_	_	_	_
 2	'na	unu	DET	E	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	TokenRange=1843:1847
-3	pocu	pocu	PRON	E	Gender=Masc|Number=Sing	10	obl	_	TokenRange=1843:1847
+3	pocu	pocu	PRON	E	Gender=Masc|Number=Sing|PronType=Ind	10	obl	_	TokenRange=1843:1847
 4	di	di	ADP	E	_	5	case	_	TokenRange=1853:1855
 5	tempu	tempu	NOUN	S	Gender=Masc|Number=Sing	3	nmod	_	SpaceAfter=No|TokenRange=1856:1861
 6	,	,	PUNCT	FF	_	3	punct	_	TokenRange=1861:1862
