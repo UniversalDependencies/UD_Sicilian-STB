@@ -3846,7 +3846,7 @@
 20	di	di	ADP	E	_	22	case	_	_
 21	la	lu	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	_
 22	vuci	vuci	NOUN	S	Gender=Fem|Number=Sing	19	nmod	_	SpaceAfter=No|TokenRange=87:91
-23	.	.	PUNCT	FS	9	punct	_	SpaceAfter=No|TokenRange=91:92
+23	.	.	PUNCT	FS	_	9	punct	_	SpaceAfter=No|TokenRange=91:92
 
 # sent_id = amarasapi_166
 # text = Na vicchiareḍḍa stava malariddutta 'n terra appressu a nu bancarozzu ca vinniva stigghioli, aviva na manu ntâ facci e l'occhi lacrimusi.
@@ -5220,7 +5220,7 @@
 2	E	e	CCONJ	CC	_	4	cc	_	TokenRange=1386:1387
 3	puru	puru	ADV	B	_	4	advmod	_	TokenRange=1388:1392
 4	avi	aviri	VERB	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=1393:1394
-5	di	di	ADP	E	_	6	case	_	TokenRange=1395:1397
+5	di	di	ADP	E	_	7	case	_	TokenRange=1395:1397
 6	quannu	quannu	SCONJ	CS	_	7	mark	_	TokenRange=1398:1404
 7	vinni	vinniri	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	4	ccomp	_	TokenRange=1405:1410
 8	ca	ca	SCONJ	CS	_	12	mark	_	TokenRange=1411:1414
