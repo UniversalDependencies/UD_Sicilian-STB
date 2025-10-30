@@ -1461,7 +1461,7 @@
 5	fidari	fidari	VERB	V	VerbForm=Inf	0	root	_	SpaceAfter=No|TokenRange=13:19
 6	,	,	PUNCT	FF	_	9	punct	_	TokenRange=19:20
 7	nun	nun	ADV	BN	PronType=Neg	9	advmod	_	TokenRange=21:24
-8	ti	ti	PRON	PC	Number=Sing|Person=2|PronType=Prs	9	obj	_	Clitic=Yes|TokenRange=25:27
+8	ti	ti	PRON	PC	Number=Sing|Person=2|PronType=Prs	9	iobj	_	Clitic=Yes|TokenRange=25:27
 9	frasturnari	frasturnari	VERB	V	VerbForm=Inf	5	conj	_	SpaceAfter=No|TokenRange=28:39
 10	,	,	PUNCT	FF	_	9	punct	_	TokenRange=39:40
 11	ma	ma	CCONJ	CC	_	9	cc	_	TokenRange=41:44
