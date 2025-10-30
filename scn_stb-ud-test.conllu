@@ -2563,7 +2563,7 @@
 11	pi	pi	ADP	E	_	13	case	_	_
 12	lu	lu	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
 13	cappottu	cappottu	NOUN	S	Gender=Fem|Number=Sing	10	nmod	_	SpaceAfter=No
-14	.	.	PUNCT	FS	13	punct	_	SpaceAfter=No
+14	.	.	PUNCT	FS	_	13	punct	_	SpaceAfter=No
 
 # sent_id = amarasapi_108
 # text = Ancora sulu i primi faviḍḍi èranu, ma pî cristiani chistu era u principiu dû Zuccu.
