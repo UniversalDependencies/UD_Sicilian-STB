@@ -3846,7 +3846,7 @@
 20	di	di	ADP	E	_	22	case	_	_
 21	la	lu	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	_
 22	vuci	vuci	NOUN	S	Gender=Fem|Number=Sing	19	nmod	_	SpaceAfter=No|TokenRange=87:91
-23	.	.	PUNCT	FS	_	2	punct	_	SpaceAfter=No|TokenRange=91:92
+23	.	.	PUNCT	FS	9	punct	_	SpaceAfter=No|TokenRange=91:92
 
 # sent_id = amarasapi_166
 # text = Na vicchiareḍḍa stava malariddutta 'n terra appressu a nu bancarozzu ca vinniva stigghioli, aviva na manu ntâ facci e l'occhi lacrimusi.
