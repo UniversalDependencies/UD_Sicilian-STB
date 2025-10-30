@@ -2731,7 +2731,7 @@
 11	so	so	DET	AP	Poss=Yes|PronType=Prs	12	det:poss	_	TokenRange=1523:1527
 12	casi	casa	NOUN	S	Gender=Fem|Number=Plur	7	obl	_	TokenRange=1528:1532
 13	stu	chistu	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	14	det	_	TokenRange=1533:1539
-14	schifiju	schifiju	NOUN	S	Gender=Masc|Number=Sing	17	nsubj	_	TokenRange=1540:1546
+14	schifiju	schifiju	NOUN	S	Gender=Masc|Number=Sing	17	obj	_	TokenRange=1540:1546
 15	nun	nun	ADV	BN	PronType=Neg	17	advmod	_	TokenRange=1547:1550
 16	cci	ci	PRON	PC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	iobj	_	Clitic=Yes|TokenRange=1551:1554
 17	piaciva	piaciri	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	parataxis	_	TokenRange=1555:1562
