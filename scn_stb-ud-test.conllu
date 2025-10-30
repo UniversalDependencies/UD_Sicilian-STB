@@ -1119,7 +1119,7 @@
 9	e	e	CCONJ	CC	_	11	cc	_	TokenRange=4146:4147
 10	l'	lu	PRON	PC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	obj	_	Clitic=Yes|SpaceAfter=No|TokenRange=4148:4150
 11	abbrazzau	abbrazzari	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	conj	_	TokenRange=4150:4159
-12	forti	forti	ADV	A	Number=Sing	11	advmod	_	SpaceAfter=No|TokenRange=4160:4165
+12	forti	forti	ADV	A	_	11	advmod	_	SpaceAfter=No|TokenRange=4160:4165
 13	.	.	PUNCT	FS	_	4	punct	_	TokenRange=4165:4166
 
 # sent_id = amarasapi_49
@@ -1443,7 +1443,7 @@
 23	Nardu	Nardu	PROPN	SP	_	21	nmod	_	SpaceAfter=No|TokenRange=95:100
 24	,	,	PUNCT	FF	_	16	punct	_	TokenRange=100:101
 25	«	«	PUNCT	FB	_	26	punct	_	SpaceAfter=No|TokenRange=102:103
-26-28	dimmillu	_	_	_	_	_	_	_	TokenRange=104:116
+26-28	dimmillu	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=104:116
 26	di	diciri	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	16	parataxis	_	_
 27	mi	mi	PRON	PC	Gender=Masc|Number=Sing|Person=1|PronType=Prs	26	iobj	_	Clitic=Yes
 28	lu	lu	PRON	PC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	26	obj	_	Clitic=Yes
@@ -1869,7 +1869,7 @@
 # translation = Se i Vampi andavano avanti, dovevano dire grazie a Nardu, lo sapeva.
 1	Siḍḍu	siddu	SCONJ	CS	_	4	mark	_	TokenRange=0:2
 2	I	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	TokenRange=3:4
-3	Vampi	Vampi	PROPN	SP	Gender=Masc|Number=Plur	4	nsubj	_	TokenRange=5:10
+3	Vampi	Vampi	PROPN	SP	_	4	nsubj	_	TokenRange=5:10
 4	jìvanu	jiri	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	7	advcl	_	TokenRange=11:19
 5	avanzi	avanzi	ADV	B	_	4	advmod	_	SpaceAfter=No|TokenRange=20:26
 6	ci	ci	PRON	PC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	iobj	_	Clitic=Yes|TokenRange=28:31
@@ -1889,7 +1889,7 @@
 # translation = E se lo meritavano tutto quanto quel successo: ciascuno del quartetto aveva seguito il suo ruolo senza che mai nessuno si fosse lamentato.
 1	E	e	CCONJ	CC	_	6	cc	_	TokenRange=0:1
 2-3	sû	_	_	_	_	_	_	_	TokenRange=2:7
-2	si	si	PRON	PC	_	4	expl	_	_
+2	si	si	PRON	PC	PronType=Prs	4	expl	_	_
 3	lu	lu	PRON	PC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	Clitic=Yes
 4	miritàvanu	miritari	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	TokenRange=8:18
 5	tuttu	tuttu	DET	T	Gender=Masc|Number=Sing|PronType=Ind	6	det	_	TokenRange=19:24
@@ -2562,7 +2562,7 @@
 11-12	pû	_	_	_	_	_	_	_	TokenRange=49:54
 11	pi	pi	ADP	E	_	14	case	_	_
 12	lu	lu	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
-13	cappottu	cappottu	NOUN	S	Gender=Fem|Number=Sing	10	obl	_	SpaceAfter=No|TokenRange=55:63
+13	cappottu	cappottu	NOUN	S	Gender=Fem|Number=Sing	10	nmod	_	SpaceAfter=No|TokenRange=55:63
 14	.	.	PUNCT	FS	_	2	punct	_	SpaceAfter=No|TokenRange=63:64
 
 # sent_id = amarasapi_108
