@@ -7151,7 +7151,7 @@
 22	vugghinu	vugghiri	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	parataxis	_	SpaceAfter=No|TokenRange=2843:2852
 23	,	,	PUNCT	FF	_	25	punct	_	TokenRange=2852:2853
 24	e	e	CCONJ	CC	_	25	cc	_	TokenRange=2854:2855
-25	amaru	amaru	ADJ	V	Mood=Ind|Number=Sing|Person=2	22	conj	_	TokenRange=2856:2860
+25	amaru	amaru	ADJ	V	Gender=Masc|Number=Sing	22	conj	_	TokenRange=2856:2860
 26	cu'	cui	PRON	PR	PronType=Rel	25	obj	_	TokenRange=2861:2864
 27	cci	ci	PRON	PC	PronType=Prs	28	iobj	_	Clitic=Yes|TokenRange=2865:2867
 28	capita	capitari	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	26	acl:relcl	_	SpaceAfter=No|TokenRange=2868:2874
