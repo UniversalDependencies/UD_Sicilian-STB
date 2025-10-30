@@ -8433,7 +8433,7 @@
 21	—	—	PUNCT	FF	_	25	punct	_	TokenRange=3592:3593
 22	"	"	PUNCT	FB	_	25	punct	_	SpaceAfter=No|TokenRange=3594:3595
 23	E	e	CCONJ	CC	_	25	cc	_	TokenRange=3595:3596
-24	ch'	chi	PRON	PR	_	25	obj	_	SpaceAfter=No|TokenRange=3597:3600
+24	ch'	chi	PRON	PR	PronType=Int	25	obj	_	SpaceAfter=No|TokenRange=3597:3600
 25	hê	aviri	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	17	parataxis	_	TokenRange=3601:3605
 26	d'	di	ADP	E	_	27	mark	_	SpaceAfter=No|TokenRange=3608:3610
 27	aviri	aviri	VERB	V	VerbForm=Inf	25	xcomp	_	SpaceAfter=No|TokenRange=3610:3615
@@ -8497,7 +8497,7 @@
 11	ca	ca	SCONJ	CS	PronType=Rel	13	mark	_	TokenRange=3848:3851
 12	vulia	vuliri	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	13	aux	_	TokenRange=3852:3858
 13	sapiri	sapiri	VERB	V	VerbForm=Inf	9	advcl	_	TokenRange=3859:3865
-14	quant'	quantu	PRON	B	Gender=Masc|Number=Sing	16	obl	_	SpaceAfter=No|TokenRange=3866:3872
+14	quant'	quantu	PRON	B	Gender=Masc|Number=Sing|PronType=Int	16	obl	_	SpaceAfter=No|TokenRange=3866:3872
 15	era	essiri	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	16	cop	_	TokenRange=3873:3876
 16	funnutu	funnutu	ADJ	A	Gender=Masc|Number=Sing	13	ccomp	_	TokenRange=3877:3885
 17	lu	lu	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	TokenRange=3886:3888
@@ -8868,7 +8868,7 @@
 13	peddi	peddi	NOUN	S	Gender=Fem|Number=Sing	11	obj	_	TokenRange=5246:5251
 14	tali	tali	ADJ	A	_	13	amod	_	TokenRange=5252:5256
 15	e	e	CCONJ	CC	_	16	cc	_	TokenRange=5257:5258
-16	quali	quali	PRON	B	_	14	conj	_	TokenRange=5259:5264
+16	quali	quali	PRON	B	PronType=Int	14	conj	_	TokenRange=5259:5264
 17	comu	comu	ADP	E	_	19	case	_	TokenRange=5265:5269
 18	'na	unu	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	19	det	_	TokenRange=5270:5273
 19	lagusta	lagusta	NOUN	S	Gender=Fem|Number=Sing	14	obl	_	SpaceAfter=No|TokenRange=5274:5282
@@ -9136,7 +9136,7 @@
 30	,	,	PUNCT	FF	_	39	punct	_	TokenRange=554:555
 31-32	pircui	_	_	_	_	_	_	_	_
 31	pir	pi	ADP	B	_	32	case	_	TokenRange=556:562
-32	cui	cui	PRON	B	_	39	obl	_	TokenRange=556:562
+32	cui	cui	PRON	B	PronType=Rel	39	obl	_	TokenRange=556:562
 33	l'	lu	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	34	det	_	SpaceAfter=No|TokenRange=563:565
 34	appiramentu	appiramentu	NOUN	S	Gender=Masc|Number=Sing	39	nsubj	_	TokenRange=566:574
 35	di	di	ADP	E	_	36	case	_	TokenRange=575:577
@@ -9463,7 +9463,7 @@
 14	jiri	jiri	VERB	V	VerbForm=Inf	12	xcomp	_	TokenRange=1928:1934
 15	a	a	ADP	E	_	16	mark	_	TokenRange=1935:1936
 16	truvari	truvari	VERB	V	VerbForm=Inf	14	xcomp	_	TokenRange=1937:1944
-17	quantu	quantu	PRON	PR	Gender=Masc|Number=Sing	19	obl	_	TokenRange=1945:1951
+17	quantu	quantu	PRON	PR	Gender=Masc|Number=Sing|PronType=Int	19	obl	_	TokenRange=1945:1951
 18	era	essiri	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	19	cop	_	TokenRange=1952:1955
 19	funnutu	funnutu	ADJ	A	Gender=Masc|Number=Sing	16	ccomp	_	TokenRange=1956:1964
 20	lu	lu	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	TokenRange=1965:1967
