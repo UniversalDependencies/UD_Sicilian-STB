@@ -1737,7 +1737,7 @@
 2	Ca	ca	CCONJ	CC	_	7	cc	_	TokenRange=1:2
 3	certu	certu	ADV	B	_	7	advmod	_	SpaceAfter=No|TokenRange=3:8
 4	,	,	PUNCT	FF	_	3	punct	_	TokenRange=8:9
-5	aviva	aviri	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7	cop	_	TokenRange=10:13
+5	aviva	aviri	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7	aux	_	TokenRange=10:13
 6	na	unu	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	TokenRange=14:17
 7	jurnata	jurnata	NOUN	S	Gender=Fem|Number=Sing	0	root	_	TokenRange=18:26
 8	sana	sanu	ADJ	A	Gender=Fem|Number=Sing	7	amod	_	TokenRange=27:33
@@ -5499,7 +5499,7 @@
 15	d'	di	ADP	E	_	17	case	_	TokenRange=2344:2346
 16	autru	autru	ADJ	A	Gender=Masc|Number=Sing	17	amod	_	TokenRange=2347:2352
 17	latu	latu	NOUN	S	Gender=Masc|Number=Sing	20	obl	_	TokenRange=2353:2357
-18	avìa	aviri	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	20	cop	_	TokenRange=2358:2361
+18	avìa	aviri	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	20	aux	_	TokenRange=2358:2361
 19	na	unu	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	20	det	_	TokenRange=2362:2365
 20	sirata	sirata	NOUN	S	Gender=Fem|Number=Sing	3	conj	_	TokenRange=2366:2372
 21	sana	sanu	ADJ	A	Gender=Fem|Number=Sing	20	amod	_	TokenRange=2373:2379
