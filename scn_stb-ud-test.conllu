@@ -799,7 +799,7 @@
 4	comu	comu	ADV	B	_	10	advmod	_	TokenRange=16:20
 5	siḍḍu	siddu	SCONJ	CS	_	10	mark	_	TokenRange=21:23
 6	avissi	aviri	AUX	VA	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	10	aux	_	TokenRange=24:29
-7	statu	stari	AUX	VA	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	10	cop	_	TokenRange=30:35
+7	statu	essiri	AUX	VA	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	10	cop	_	TokenRange=30:35
 8	l'	lu	DET	RD	Definite=Def|Number=Sing|PronType=Art	10	det	_	SpaceAfter=No|TokenRange=36:38
 9	ùrtima	ùrtimu	ADJ	A	Gender=Fem|Number=Sing	10	amod	_	TokenRange=38:44
 10	vota	vota	NOUN	S	Gender=Fem|Number=Sing	3	advcl	_	TokenRange=45:50
@@ -5226,7 +5226,7 @@
 8	ca	ca	SCONJ	CS	_	12	mark	_	TokenRange=1411:1414
 9	tu	tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	12	nsubj	_	TokenRange=1415:1417
 10	a'	essiri	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	12	aux	_	TokenRange=1418:1421
-11	statu	stari	AUX	VA	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	12	cop	_	TokenRange=1422:1427
+11	statu	essiri	AUX	VA	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	12	cop	_	TokenRange=1422:1427
 12	tranquillu	tranquillu	ADJ	A	Gender=Masc|Number=Sing	7	ccomp	_	TokenRange=1428:1438
 13	cca	cca	ADV	B	_	12	advmod	_	SpaceAfter=No|TokenRange=1439:1442
 14	,	,	PUNCT	FF	_	12	punct	_	TokenRange=1442:1443
@@ -5311,7 +5311,7 @@
 6	mura	muru	NOUN	S	Gender=Fem|Number=Plur	4	nsubj	_	SpaceAfter=No|TokenRange=1679:1683
 7	,	,	PUNCT	FF	_	4	punct	_	TokenRange=1683:1684
 8	quannu	quannu	SCONJ	CS	_	10	mark	_	TokenRange=1685:1691
-9	stavi	stari	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Imp|VerbForm=Fin	10	cop	_	TokenRange=1692:1695
+9	stavi	essiri	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Imp|VerbForm=Fin	10	cop	_	TokenRange=1692:1695
 10	sulu	sulu	ADV	B	_	4	advcl	_	SpaceAfter=No|TokenRange=1696:1700
 11	.	.	PUNCT	FS	_	4	punct	_	TokenRange=1700:1701
 12	O	o	CCONJ	CC	_	14	cc	_	TokenRange=1702:1703
