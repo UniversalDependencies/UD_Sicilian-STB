@@ -11839,7 +11839,7 @@
 17	Facèmu	fari	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	15	parataxis	_	_
 18	la	la	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	17	obj	_	_
 19	quarchi	quarchi	DET	DI	Number=Sing|PronType=Ind	20	det	_	_
-20	cosa	cosa	NOUN	S	Gender=Fem|Number=Sing	17	obj	_	_
+20	cosa	cosa	NOUN	S	Gender=Fem|Number=Sing	17	dislocated	_	_
 21	di	di	ADP	E	_	23	case	_	_
 22	cchiù	chiù	ADV	B	_	23	advmod	_	_
 23	beḍḍu	beddu	ADJ	A	Gender=Masc|Number=Sing	20	amod	_	SpaceAfter=No
@@ -12925,7 +12925,7 @@
 # translation = Lo so cosa fanno quando prelevano qualche umano per portarlo sopra l’astronave: gli succhiano il sangue, gli bucano tutto il corpo, ne studiano il cervello e per concludere gli bucano i denti con il trapano.
 1	Lu	u	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj	_	_
 2	sacciu	sapiri	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	soccu	soccu	NOUN	S	Gender=Fem|Number=Sing	2	obj	_	_
+3	soccu	soccu	NOUN	S	Gender=Fem|Number=Sing	2	dislocated	_	_
 4	fannu	fari	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
 5	quannu	quannu	SCONJ	CS	_	6	mark	_	_
 6	pìgghianu	pigghiari	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	advcl	_	_
