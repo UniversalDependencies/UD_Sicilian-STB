@@ -10224,7 +10224,7 @@
 # text = Prestu prestu cci dèttiru lu lignu, e lu voi marinu abbuddrau 'n funnu.
 # translation = In fretta gli diedero il legno, e il bue marino si tuffò in fondo.
 1	Prestu	prestu	ADV	B	_	4	advmod	_	TokenRange=4762:4768
-2	prestu	prestu	ADV	B	_	4	fixed	_	TokenRange=4769:4775
+2	prestu	prestu	ADV	B	_	4	advmod	_	TokenRange=4769:4775
 3	cci	ci	PRON	PC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	iobj	_	Clitic=Yes|TokenRange=4776:4779
 4	dèttiru	dari	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	TokenRange=4780:4787
 5	lu	lu	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	TokenRange=4788:4790
