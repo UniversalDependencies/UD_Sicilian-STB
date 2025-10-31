@@ -3186,7 +3186,7 @@
 12	a	a	ADP	E	_	13	mark	_	TokenRange=3292:3293
 13	cògghiri	cogghiri	VERB	V	VerbForm=Inf	11	xcomp	_	TokenRange=3294:3305
 14	carduna	carduni	NOUN	S	Gender=Masc|Number=Plur	13	obj	_	TokenRange=3306:3311
-15	campagni	campagna	NOUN	S	Gender=Fem|Number=Plur	13	compound:redup	_	TokenRange=3312:3320
+15	campagni	campagna	NOUN	S	Gender=Fem|Number=Plur	13	compound	_	TokenRange=3312:3320
 16	campagni	campagna	NOUN	S	Gender=Fem|Number=Plur	15	obl	_	SpaceAfter=No|TokenRange=3321:3329
 17	…	…	PUNCT	FF	_	6	punct	_	SpaceAfter=No|TokenRange=3330:3332
 18	»	»	PUNCT	FB	_	6	punct	_	SpaceAfter=No|TokenRange=3332:3333
