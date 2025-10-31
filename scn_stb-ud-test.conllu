@@ -3201,7 +3201,7 @@
 1	«	«	PUNCT	FB	_	5	punct	_	SpaceAfter=No|TokenRange=3356:3357
 2	Tu	tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	5	nsubj	_	TokenRange=3357:3359
 3	nun	nun	ADV	BN	PronType=Neg	5	advmod	_	TokenRange=3360:3363
-4	ti	ti	PRON	PC	Number=Sing|Person=2|PronType=Prs	5	obj	_	Clitic=Yes|TokenRange=3364:3366
+4	ti	ti	PRON	PC	Number=Sing|Person=2|PronType=Prs	5	expl	_	Clitic=Yes|TokenRange=3364:3366
 5	mèriti	meritari	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=3367:3373
 6	chistu	chistu	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	5	obj	_	SpaceAfter=No|TokenRange=3374:3380
 7	,	,	PUNCT	FF	_	8	punct	_	TokenRange=33:39
@@ -3481,8 +3481,8 @@
 2	Ahia	ahia	INTJ	I	_	7	discourse	_	SpaceAfter=No|TokenRange=1:4
 3	!	!	PUNCT	FS	_	2	punct	_	TokenRange=4:5
 4	Ma	ma	CCONJ	CC	_	7	cc	_	TokenRange=6:8
-5	chi	chi	PRON	PQ	PronType=Int	7	obj	_	TokenRange=9:12
-6	ti	ti	PRON	PC	Number=Sing|Person=2|PronType=Prs	7	obj	_	Clitic=Yes|TokenRange=13:15
+5	chi	chi	PRON	PQ	PronType=Int	7	nsubj	_	TokenRange=9:12
+6	ti	ti	PRON	PC	Number=Sing|Person=2|PronType=Prs	7	iobj	_	Clitic=Yes|TokenRange=13:15
 7	pigghiau	pigghiari	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No|TokenRange=16:21
 8	?	?	PUNCT	FS	_	7	punct	_	SpaceAfter=No|TokenRange=21:22
 9	»	»	PUNCT	FB	_	7	punct	_	TokenRange=22:23
@@ -3775,7 +3775,7 @@
 2-3	capillu	_	_	_	_	_	_	_	TokenRange=4:11
 2	capi	capiri	VERB	V	VerbForm=Inf	7	advcl	_	_
 3	lu	lu	PRON	PC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj	_	Clitic=Yes
-4	Nardu	Nardu	PROPN	SP	_	2	obj	_	TokenRange=12:17
+4	Nardu	Nardu	PROPN	SP	_	2	dislocated	_	TokenRange=12:17
 5	l'	lu	PRON	PC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obj	_	Clitic=Yes|SpaceAfter=No|TokenRange=18:20
 6	avìa	aviri	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7	aux	_	TokenRange=20:25
 7	caputu	capiri	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No|TokenRange=26:32
@@ -4460,7 +4460,7 @@
 18	beḍḍa	beddu	ADJ	A	Gender=Fem|Number=Sing	19	amod	_	TokenRange=1537:1542
 19	carusa	carusu	NOUN	S	Gender=Fem|Number=Sing	15	nmod	_	TokenRange=1543:1550
 20	ca	ca	PRON	PR	PronType=Rel	22	obj	_	TokenRange=1551:1554
-21	ti	ti	PRON	PC	Number=Sing|Person=2|PronType=Prs	22	obj	_	Clitic=Yes|TokenRange=1555:1557
+21	ti	ti	PRON	PC	Number=Sing|Person=2|PronType=Prs	22	iobj	_	Clitic=Yes|TokenRange=1555:1557
 22	pigghiasti	pigghiari	VERB	V	Mood=Cnd|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	19	acl:relcl	_	TokenRange=1558:1567
 23	pi	pi	ADP	E	_	24	case	_	TokenRange=1568:1571
 24	zita	zitu	NOUN	S	Gender=Fem|Number=Sing	22	obl	_	SpaceAfter=No|TokenRange=1572:1581
