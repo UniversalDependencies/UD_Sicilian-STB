@@ -379,7 +379,7 @@
 7	a	a	PRON	PC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	obj	_	Clitic=Yes|TokenRange=1384:1386
 8	vinnìu	vinniri	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	19	advcl	_	TokenRange=1387:1393
 9	u	lu	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	TokenRange=1394:1396
-10	cristianu	cristianu	NOUN	S	Gender=Fem|Number=Sing	8	obj	_	TokenRange=1397:1404
+10	cristianu	cristianu	NOUN	S	Gender=Fem|Number=Sing	8	nsubj	_	TokenRange=1397:1404
 11	cchiù	chiù	ADV	B	_	12	advmod	_	TokenRange=1405:1408
 12	cuntenti	cuntenti	ADJ	A	Gender=Fem|Number=Sing	10	amod	_	TokenRange=1409:1417
 13-14	dû	_	_	_	_	_	_	_	TokenRange=1418:1421
