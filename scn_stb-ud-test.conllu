@@ -5589,7 +5589,7 @@
 8	si	si	PRON	PC	Person=3|PronType=Prs	9	expl	_	Clitic=Yes|TokenRange=2750:2752
 9	ripitiva	ripitiri	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	TokenRange=2753:2761
 10	Nardu	Nardu	PROPN	SP	_	9	nsubj	_	TokenRange=2762:2767
-11	jintra	dintra	ADV	B	ExtPos=Loc	13	case	_	TokenRange=2768:2774
+11	jintra	dintra	ADV	B	_	13	case	_	TokenRange=2768:2774
 12	di	di	ADP	E	_	11	fixed	_	TokenRange=2775:2777
 13	iḍḍu	iddu	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obl	_	SpaceAfter=No|TokenRange=2778:2781
 14	.	.	PUNCT	FS	_	9	punct	_	TokenRange=2781:2782
