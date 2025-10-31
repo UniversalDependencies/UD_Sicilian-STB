@@ -5822,7 +5822,7 @@
 2	"	"	PUNCT	FB	_	5	punct	_	SpaceAfter=No|TokenRange=625:626
 3	Allura	allura	ADV	B	_	5	advmod	_	TokenRange=626:632
 4	m'	mi	PRON	PC	Number=Sing|Person=1|PronType=Prs	5	expl	_	Clitic=Yes|SpaceAfter=No|TokenRange=633:635
-5	hai	aviri	AUX	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=636:640
+5	hai	aviri	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=636:640
 6	a	a	PART	E	_	7	mark	_	TokenRange=641:642
 7	sapiri	sapiri	VERB	V	VerbForm=Inf	5	xcomp	_	TokenRange=643:649
 8	a	a	PART	E	_	9	mark	_	TokenRange=650:651
@@ -5987,7 +5987,7 @@
 # text = Tu ha' a tràsiri jintra di la caverna; e m'hai a diri unni currispunni stu focu".
 # translation = Tu devi entrare dentro la caverna; e mi devi dire dove si trova questo fuoco".
 1	Tu	tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	2	nsubj	_	TokenRange=1194:1196
-2	ha'	aviri	AUX	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=1197:1201
+2	ha'	aviri	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=1197:1201
 3	a	a	PART	E	_	4	mark	_	TokenRange=1202:1203
 4	tràsiri	trasiri	VERB	V	VerbForm=Inf	2	xcomp	_	TokenRange=1204:1211
 5	jintra	dintra	ADV	B	ExtPos=ADV	8	case	_	TokenRange=1212:1218
@@ -5997,7 +5997,7 @@
 9	;	;	PUNCT	FC	_	12	punct	_	TokenRange=1232:1233
 10	e	e	CCONJ	CC	_	12	cc	_	TokenRange=1234:1235
 11	m'	mi	PRON	PC	Number=Sing|Person=1|PronType=Prs	12	expl	_	Clitic=Yes|SpaceAfter=No|TokenRange=1236:1238
-12	hai	aviri	AUX	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	conj	_	TokenRange=1239:1243
+12	hai	aviri	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	conj	_	TokenRange=1239:1243
 13	a	a	PART	E	_	14	mark	_	TokenRange=1244:1245
 14	diri	diciri	VERB	V	VerbForm=Inf	12	xcomp	_	TokenRange=1246:1250
 15	unni	unni	ADV	B	_	16	advmod	_	TokenRange=1251:1255
@@ -6860,7 +6860,7 @@
 35	pattu	pattu	NOUN	S	Gender=Masc|Number=Sing	22	obl	_	TokenRange=1738:1743
 36	ca	ca	SCONJ	CS	_	38	mark	_	TokenRange=1744:1747
 37	tu	tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	38	nsubj	_	TokenRange=1748:1750
-38	ha'	aviri	AUX	V	Mood=Sub|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	35	acl	_	TokenRange=1751:1755
+38	ha'	aviri	VERB	V	Mood=Sub|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	35	acl	_	TokenRange=1751:1755
 39	a	a	PART	E	_	40	mark	_	TokenRange=1756:1757
 40	vidiri	vidiri	VERB	V	VerbForm=Inf	38	xcomp	_	TokenRange=1758:1764
 41	sina	sina	ADP	B	_	42	case	_	TokenRange=1765:1769
@@ -8226,7 +8226,7 @@
 33	Cola	Cola	PROPN	SP	_	36	vocative	_	SpaceAfter=No|TokenRange=2837:2841
 34	,	,	PUNCT	FF	_	33	punct	_	TokenRange=2841:2842
 35	m'	mi	PRON	PC	Number=Sing|Person=1|PronType=Prs	36	expl	_	Clitic=Yes|SpaceAfter=No|TokenRange=2843:2845
-36	hai	aviri	AUX	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	29	ccomp:reported	_	TokenRange=2846:2850
+36	hai	aviri	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	29	ccomp:reported	_	TokenRange=2846:2850
 37	a	a	PART	E	_	38	mark	_	TokenRange=2851:2852
 38	sapiri	sapiri	VERB	V	VerbForm=Inf	36	xcomp	_	TokenRange=2853:2859
 39	a	a	PART	E	_	40	mark	_	TokenRange=2860:2861
@@ -8316,7 +8316,7 @@
 # sent_id = colapisci_84
 # text = Havi a sapiri vassia ca sta Turri tocca quasi tuttu lu mari, tantu ca a tempi antichi di 'ncapu si cci mittia unu, e quannu l'acqua sucava, iddu sunava 'na trumma e gghisava 'na bannera pri nun fari passari li bastimenti.
 # translation = Deve sapere vostra signoria che questa Torre copre quasi tutto il mare, tanto che ai tempi antichi uno ci si metteva sopra, e quando il mare risucchiava l’acqua, lui suonava una tromba e alzava una bandiera per non far passare le navi.
-1	Havi	aviri	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=3172:3176
+1	Havi	aviri	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=3172:3176
 2	a	a	PART	E	_	3	mark	_	TokenRange=3177:3178
 3	sapiri	sapiri	VERB	V	VerbForm=Inf	1	xcomp	_	TokenRange=3179:3185
 4	vassia	vassia	NOUN	S	Gender=Masc|Number=Sing	3	obj	_	TokenRange=3186:3192
@@ -8400,7 +8400,7 @@
 5	"	"	PUNCT	FB	_	8	punct	_	SpaceAfter=No|TokenRange=3479:3480
 6	Cosa	cosa	PRON	PQ	Number=Sing|PronType=Int	8	obj	_	TokenRange=3480:3484
 7	cci	ci	PRON	PC	PronType=Prs	8	expl	_	Clitic=Yes|TokenRange=3485:3487
-8	havi	aviri	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	TokenRange=3488:3492
+8	havi	aviri	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	TokenRange=3488:3492
 9	a	a	PART	E	_	10	mark	_	TokenRange=3493:3494
 10	essiri	essiri	VERB	V	VerbForm=Inf	8	ccomp	_	SpaceAfter=No|TokenRange=3495:3501
 11	"	"	PUNCT	FB	_	8	punct	_	SpaceAfter=No|TokenRange=3501:3502
@@ -8470,7 +8470,7 @@
 58	agghiuttiri	agghiuttiri	VERB	V	VerbForm=Inf	57	ccomp	_	SpaceAfter=No|TokenRange=3733:3744
 59	,	,	PUNCT	FF	_	57	punct	_	TokenRange=3744:3745
 60	m'	mi	PRON	PC	Number=Sing|Person=1|PronType=Prs	61	obj	_	Clitic=Yes|SpaceAfter=No|TokenRange=3746:3748
-61	appi	aviri	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	37	conj	_	TokenRange=3749:3753
+61	appi	aviri	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	37	conj	_	TokenRange=3749:3753
 62	a	a	PART	E	_	63	mark	_	TokenRange=3761:3762
 63	'mmucciari	ammucciari	VERB	V	VerbForm=Inf	61	xcomp	_	TokenRange=3763:3773
 64	darreri	darreri	ADP	E	_	66	case	_	TokenRange=3774:3780
@@ -10186,7 +10186,7 @@
 13	Maistà	maistà	NOUN	S	Gender=Fem	16	vocative	_	SpaceAfter=No|TokenRange=4632:4638
 14	,	,	PUNCT	FF	_	13	punct	_	TokenRange=4638:4639
 15	m'	mi	PRON	PC	Number=Sing|Person=1|PronType=Prs	16	expl	_	Clitic=Yes|SpaceAfter=No|TokenRange=4640:4642
-16	aviti	aviri	AUX	V	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	9	parataxis	_	TokenRange=4643:4649
+16	aviti	aviri	VERB	V	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	9	parataxis	_	TokenRange=4643:4649
 17	a	a	PART	E	_	18	mark	_	TokenRange=4650:4651
 18	dari	dari	VERB	V	VerbForm=Inf	16	xcomp	_	TokenRange=4652:4656
 19	un	unu	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	20	det	_	TokenRange=4657:4659
@@ -10406,7 +10406,7 @@
 23	li	lu	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	24	det	_	TokenRange=394:395
 24	bastimenti	bastimentu	NOUN	S	Gender=Masc|Number=Plur	19	obl	_	TokenRange=396:406
 25	ch'	chi	PRON	PR	PronType=Rel	26	nsubj	_	SpaceAfter=No|TokenRange=407:410
-26	avianu	aviri	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	24	acl:relcl	_	TokenRange=411:419
+26	avianu	aviri	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	24	acl:relcl	_	TokenRange=411:419
 27	a	a	PART	E	_	28	mark	_	TokenRange=420:421
 28	pàrtiri	partiri	VERB	V	VerbForm=Inf	26	xcomp	_	SpaceAfter=No|TokenRange=422:429
 29	.	.	PUNCT	FS	_	1	punct	_	TokenRange=429:430
@@ -10586,7 +10586,7 @@
 17	,	,	PUNCT	FF	_	16	punct	_	TokenRange=1093:1094
 18	ca	ca	SCONJ	CS	_	20	obj	_	TokenRange=1095:1098
 19	Cola	Cola	PROPN	SP	_	20	nsubj	_	TokenRange=1099:1103
-20	avia	aviri	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	16	acl:relcl	_	TokenRange=1104:1110
+20	avia	aviri	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	16	acl:relcl	_	TokenRange=1104:1110
 21	a	a	PART	E	_	22	mark	_	TokenRange=1111:1112
 22	pigliari	pigliari	VERB	V	VerbForm=Inf	20	xcomp	_	TokenRange=1113:1121
 23	funnu	funnu	NOUN	S	Gender=Masc|Number=Sing	22	obj	_	TokenRange=1122:1127
@@ -10756,7 +10756,7 @@
 6	—	—	PUNCT	FF	_	4	punct	_	TokenRange=1689:1690
 7	"	"	PUNCT	FB	_	9	punct	_	SpaceAfter=No|TokenRange=1691:1692
 8	Cci	ci	PRON	PC	PronType=Prs	9	expl	_	Clitic=Yes|TokenRange=1692:1694
-9	hai	aviri	AUX	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	parataxis	_	TokenRange=1695:1699
+9	hai	aviri	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	parataxis	_	TokenRange=1695:1699
 10	a	a	PART	E	_	11	mark	_	TokenRange=1700:1701
 11	calari	calari	VERB	V	VerbForm=Inf	9	xcomp	_	TokenRange=1702:1710
 12	arrìri	arriri	ADV	B	_	11	advmod	_	SpaceAfter=No|TokenRange=1711:1721
@@ -10993,7 +10993,7 @@
 28	sapia	sapiri	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	15	advcl	_	TokenRange=2549:2555
 29	quantu	quantu	DET	DQ	Gender=Masc|Number=Sing|PronType=Rel	30	det	_	TokenRange=2556:2562
 30	tempu	tempu	NOUN	S	Gender=Masc|Number=Sing	31	obj	_	TokenRange=2563:2568
-31	avia	aviri	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	28	ccomp	_	TokenRange=2569:2575
+31	avia	aviri	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	28	ccomp	_	TokenRange=2569:2575
 32	a	a	PART	E	_	33	mark	_	TokenRange=2576:2577
 33	stari	stari	VERB	V	VerbForm=Inf	31	xcomp	_	TokenRange=2578:2583
 34	'n	in	ADP	E	_	35	case	_	TokenRange=2584:2586
