@@ -13489,7 +13489,7 @@
 8	vita	vita	NOUN	S	Gender=Fem|Number=Sing	5	nmod	_	SpaceAfter=No
 9	,	,	PUNCT	FF	_	13	punct	_	_
 10	l'	lu	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	SpaceAfter=No
-11	autri	autru	ADJ	A	Gender=Masc|Number=Plur|PronType=Ind	13	amod	_	_
+11	autri	autru	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	13	det	_	_
 12	"	"	PUNCT	FB	_	13	punct	_	SpaceAfter=No
 13	Armali	armalu	NOUN	S	Gender=Masc|Number=Plur	5	appos	_	SpaceAfter=No
 14	"	"	PUNCT	FB	_	13	punct	_	SpaceAfter=No
