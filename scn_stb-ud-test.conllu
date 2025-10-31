@@ -5454,7 +5454,7 @@
 4	forti	forti	ADV	B	_	3	advmod	_	TokenRange=2185:2190
 5	a	lu	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	TokenRange=2191:2193
 6	manu	manu	NOUN	S	Gender=Fem|Number=Sing	3	obj	_	TokenRange=2194:2198
-7	supra	supra	ADV	B	ExtPos=Loc	10	case	_	TokenRange=2199:2204
+7	supra	supra	ADV	B	ExtPos=ADP	10	case	_	TokenRange=2199:2204
 8-9	ô	_	_	_	_	_	_	_	TokenRange=2205:2207
 8	a	a	ADP	E	_	7	fixed	_	_
 9	lu	lu	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
@@ -5589,8 +5589,8 @@
 8	si	si	PRON	PC	Person=3|PronType=Prs	9	expl	_	Clitic=Yes|TokenRange=2750:2752
 9	ripitiva	ripitiri	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	TokenRange=2753:2761
 10	Nardu	Nardu	PROPN	SP	_	9	nsubj	_	TokenRange=2762:2767
-11	jintra	dintra	ADV	B	_	13	case	_	TokenRange=2768:2774
-12	di	di	ADP	E	_	11	fixed	_	TokenRange=2775:2777
+11  jintra  dintra  ADV  B  ExtPos=ADP  13  case  _  TokenRange=2768:2774
+12  di      di      ADP  E  _  11  fixed _  TokenRange=2775:2777
 13	iḍḍu	iddu	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obl	_	SpaceAfter=No|TokenRange=2778:2781
 14	.	.	PUNCT	FS	_	9	punct	_	TokenRange=2781:2782
 
