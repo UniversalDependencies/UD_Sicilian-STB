@@ -1973,7 +1973,7 @@
 6	vo'	vuliri	AUX	VM	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	7	aux	_	TokenRange=15:19
 7	satari	satari	VERB	V	VerbForm=Inf	0	root	_	TokenRange=20:27
 8	u	lu	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	TokenRange=28:30
-9	Zuccu	Zuccu	PROPN	SP	_	7	obj	_	TokenRange=31:36
+9	Zuccu	Zuccu	PROPN	SP	_	7	dislocated	_	TokenRange=31:36
 10	avannu	avannu	ADV	B	_	7	advmod	_	TokenRange=37:40
 11	o	o	CCONJ	CC	_	13	cc	_	TokenRange=41:42
 12	ni	ni	PRON	PC	Number=Plur|Person=1|PronType=Prs	13	expl	_	Clitic=Yes|TokenRange=43:45
@@ -3184,10 +3184,10 @@
 10	a	a	ADP	E	_	11	mark	_	TokenRange=3283:3284
 11	finisci	finiri	VERB	V	VerbForm=Inf	9	xcomp	_	TokenRange=3285:3291
 12	a	a	ADP	E	_	13	mark	_	TokenRange=3292:3293
-13	cògghiri	cògghiri	VERB	V	VerbForm=Inf	11	xcomp	_	TokenRange=3294:3305
+13	cògghiri	cogghiri	VERB	V	VerbForm=Inf	11	xcomp	_	TokenRange=3294:3305
 14	carduna	carduni	NOUN	S	Gender=Masc|Number=Plur	13	obj	_	TokenRange=3306:3311
-15	campagni	campagna	NOUN	S	Gender=Fem|Number=Plur	13	obj	_	TokenRange=3312:3320
-16	campagni	campagna	NOUN	S	Gender=Fem|Number=Plur	15	compound	_	SpaceAfter=No|TokenRange=3321:3329
+15	campagni	campagna	NOUN	S	Gender=Fem|Number=Plur	13	compound:redup	_	TokenRange=3312:3320
+16	campagni	campagna	NOUN	S	Gender=Fem|Number=Plur	15	obl	_	SpaceAfter=No|TokenRange=3321:3329
 17	…	…	PUNCT	FF	_	6	punct	_	SpaceAfter=No|TokenRange=3330:3332
 18	»	»	PUNCT	FB	_	6	punct	_	SpaceAfter=No|TokenRange=3332:3333
 19	,	,	PUNCT	FF	_	6	punct	_	TokenRange=3333:3334
