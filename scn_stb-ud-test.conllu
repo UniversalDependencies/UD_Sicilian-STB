@@ -4275,7 +4275,7 @@
 1	L'	lu	DET	RD	Definite=Def|Number=Sing|PronType=Art	2	det	_	SpaceAfter=No|TokenRange=0:2
 2	atmusfera	atmusfera	NOUN	S	Gender=Fem|Number=Sing	5	nsubj	_	TokenRange=2:11
 3	s'	si	PRON	PC	Person=3|PronType=Prs	5	expl	_	Clitic=Yes|SpaceAfter=No|TokenRange=12:14
-4	avìa	aviri	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	cop	_	TokenRange=15:18
+4	avìa	aviri	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	aux	_	TokenRange=15:18
 5	alliggiatu	alliggiatu	ADJ	A	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No|TokenRange=19:24
 6	.	.	PUNCT	FS	_	5	punct	_	SpaceAfter=No|TokenRange=24:25
 
