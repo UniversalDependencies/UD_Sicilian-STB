@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank>
+  <!-- tokens means "surface tokens", e.g. Spanish "vámonos" counts as one token
+       words means "syntactic words", e.g. Spanish "vámonos" is split to two words, "vamos" and "nos"
+       fused is the number of tokens that are split to two or more syntactic words
+       The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
+  <size>
+    <total><sentences>505</sentences><tokens>10932</tokens><words>11204</words><fused>265</fused></total>
+    <train><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></train>
+    <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
+    <test><sentences>505</sentences><tokens>10932</tokens><words>11204</words><fused>265</fused></test>
+  </size>
+  <lemmas unique="1506" /><!-- lu, ,, ., a, di, e, unu, ci, essiri, ca, si, aviri, ", nun, chistu -->
+  <forms unique="2247" /><!-- ,, ., a, di, e, lu, ca, la, si, cci, ", l', «, », li -->
+  <fusions unique="91" /><!-- dû, â, dâ, ô, ntâ, ntô, dî, ê, pû, cû, pâ, chî, câ, d''u, mâ -->
+  <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
+  <tags unique="15">
+    <tag name="ADJ">387</tag><!-- granni, menzu, sanu, autru, bonu, marinu, beddu, grossu, veru, àutru -->
+    <tag name="ADP">1048</tag><!-- di, a, pi, nta, cu, in, comu, doppu, senza, ni -->
+    <tag name="ADV">707</tag><!-- nun, chiù, accussì, non, comu, sulu, ora, tantu, ancora, assai -->
+    <tag name="AUX">377</tag><!-- essiri, aviri, putiri, vuliri, stari, sapiri, duviri, jiri -->
+    <tag name="CCONJ">419</tag><!-- e, ma, o, ca, nè, pirò, quantu -->
+    <tag name="DET">1293</tag><!-- lu, unu, chistu, tuttu, chiddu, so, quarchi, chissu, ogni, miu -->
+    <tag name="INTJ">23</tag><!-- grazzi, avà, se, no, sì, ahia, amara, amunì, be', bih -->
+    <tag name="NOUN">1505</tag><!-- cosa, mari, re, vota, pisci, funnu, manu, acqua, annu, jornu -->
+    <tag name="NUM">48</tag><!-- dui, tri, quattru, trenta, vintiquattru, cincu, dicidottu, sei, '62, 150 -->
+    <tag name="PART">45</tag><!-- a -->
+    <tag name="PRON">1198</tag><!-- ci, si, lu, ca, mi, ni, la, ti, chi, iddu -->
+    <tag name="PROPN">359</tag><!-- Nardu, cola, Missina, Piscicola, Giuvannuzza, faru, Pisci, Gnazziu, Zuccu, Lillu -->
+    <tag name="PUNCT">1903</tag><!-- ,, ., ", «, », :, ;, ?, !, — -->
+    <tag name="SCONJ">297</tag><!-- ca, chi, si, quannu, comu, picchì, cà, siddu, su, pirchì -->
+    <tag name="VERB">1595</tag><!-- diciri, fari, aviri, essiri, vidiri, sapiri, jiri, pigghiari, veniri, jittari -->
+  </tags>
+  <!-- Statistics of features and values. The comments show the most frequent word forms. -->
+  <feats unique="43">
+    <feat name="Clitic" value="Yes" upos="PRON">96</feat><!-- ci, mi, si, ni, cci, vi, cc', lu, ti, u -->
+    <feat name="Definite" value="Def" upos="DET">779</feat><!-- lu, la, li, u, a, l', i, 'a, 'u, nu -->
+    <feat name="Definite" value="Ind" upos="DET">254</feat><!-- un, na, 'na, n', 'n', unu, 'n, nu, una, n’ -->
+    <feat name="Degree" value="Abs" upos="ADJ">1</feat><!-- grannissimi -->
+    <feat name="Degree" value="Cmp" upos="ADJ">5</feat><!-- megghiu -->
+    <feat name="ExtPos" value="ADP" upos="ADP,ADV">19</feat><!-- senza, comu, jintra, ntra, nzèmmula, Sicunnu, a, appressu, dintra, doppu -->
+    <feat name="ExtPos" value="ADV" upos="ADV">40</feat><!-- supra, davanzi, prima, agghiri, ntunnu, 'ntunnu, fora, jintra, Ddoppu, Doppu -->
+    <feat name="ExtPos" value="INTJ" upos="INTJ">1</feat><!-- grazzi -->
+    <feat name="ExtPos" value="SCONJ" upos="ADP,ADV">5</feat><!-- doppu, Pi, puru -->
+    <feat name="Gender" value="Fem" upos="ADJ,AUX,DET,NOUN,PRON,VERB">1577</feat><!-- la, a, na, li, 'na, l', sta, vota, cosa, i -->
+    <feat name="Gender" value="Masc" upos="ADJ,AUX,DET,NOUN,PRON,VERB">2057</feat><!-- lu, u, un, cci, li, l', ci, stu, i, Re -->
+    <feat name="Mood" value="Cnd" upos="AUX,VERB">26</feat><!-- avissi, avìssiru, putissi, avìssimu, facisti, fussi, giuvassi, pigghiasti, pozzu, sapisti -->
+    <feat name="Mood" value="Imp" upos="AUX,VERB">29</feat><!-- di, Dati, ascutàti, va', Aspetta, Penza, Rispùnni, Sintiti, Sparagna, Talè -->
+    <feat name="Mood" value="Ind" upos="AUX,VERB">1358</feat><!-- era, è, dissi, avìa, avia, stava, sugnu, fici, vitti, dici -->
+    <feat name="Mood" value="Sub" upos="AUX,VERB">27</feat><!-- putìa, avìssiru, arrivava, avissi, avìa, avìssimu, dicissimu, era, firriassi, ha' -->
+    <feat name="Number" value="Plur" upos="ADJ,AUX,DET,NOUN,PRON,VERB">998</feat><!-- li, i, tutti, l', cci, anni, ni, occhi, cosi, èranu -->
+    <feat name="Number" value="Sing" upos="ADJ,AUX,DET,NOUN,PRON,VERB">4300</feat><!-- lu, la, u, era, a, un, cci, l', na, ci -->
+    <feat name="NumType" value="Card" upos="NUM">48</feat><!-- tri, quattru, dui, ddu', du’, trent', vintiquattr', dicidott', se', '62 -->
+    <feat name="NumType" value="Ord" upos="ADJ">12</feat><!-- prima, terza, primi, primu, secunna, sicunnu, ùrtimi -->
+    <feat name="Person" value="1" upos="AUX,PRON,VERB">377</feat><!-- mi, cci, sugnu, io, ni, iu, m', èramu, mia, pozzu -->
+    <feat name="Person" value="2" upos="AUX,PRON,VERB">216</feat><!-- ti, tu, sì, vi, hâ, t', aspetta, va', di, hai -->
+    <feat name="Person" value="3" upos="AUX,PRON,VERB">1644</feat><!-- si, cci, era, ci, è, lu, dissi, la, s', avìa -->
+    <feat name="Polarity" value="Neg" upos="INTJ">2</feat><!-- no -->
+    <feat name="Polarity" value="Pos" upos="ADV,INTJ">5</feat><!-- se, sì -->
+    <feat name="Poss" value="Yes" upos="DET,PRON">55</feat><!-- so, me, ma, sò, mè, sa, ta, Miei, miu, nostra -->
+    <feat name="PronType" value="Art" upos="DET">1033</feat><!-- lu, la, li, un, u, a, l', na, i, 'na -->
+    <feat name="PronType" value="Dem" upos="DET,PRON">172</feat><!-- stu, sta, chistu, ḍḍa, ḍḍu, sti, chiḍḍu, st', chiḍḍi, ḍḍi -->
+    <feat name="PronType" value="Exc" upos="DET">2</feat><!-- chi -->
+    <feat name="PronType" value="Ind" upos="DET,PRON">149</feat><!-- tutti, quarchi, nenti, una, nuḍḍu, autri, ogni, tuttu, àutra, pocu -->
+    <feat name="PronType" value="Int" upos="DET,PRON">27</feat><!-- chi, zoccu, quantu, Cosa, c', ch', qual', quali, quant', quanti -->
+    <feat name="PronType" value="Neg" upos="ADV">157</feat><!-- nun, non, 'un, mancu, nimmancu, nu, ni, no -->
+    <feat name="PronType" value="Prs" upos="DET,PRON">964</feat><!-- si, cci, ci, mi, lu, ti, cc', la, s', l' -->
+    <feat name="PronType" value="Rel" upos="DET,PRON,SCONJ">128</feat><!-- ca, chi, ch', cu', cu’, cui, quantu, pari -->
+    <feat name="PronType" value="Tot" upos="DET">24</feat><!-- tutti, tuttu, tutta -->
+    <feat name="Reflex" value="Yes" upos="PRON">1</feat><!-- ti -->
+    <feat name="Tense" value="Fut" upos="AUX,VERB">7</feat><!-- vinirà, 'mmucci, Vutau, chiamirà, dicissimu, sarai -->
+    <feat name="Tense" value="Imp" upos="AUX,VERB">472</feat><!-- era, avìa, avia, stava, èranu, putìa, èramu, sapia, eranu, parìa -->
+    <feat name="Tense" value="Past" upos="AUX,VERB">611</feat><!-- dissi, fici, vitti, vinni, fu, misi, vosi, jittau, pigghiau, statu -->
+    <feat name="Tense" value="Pres" upos="AUX,VERB">472</feat><!-- è, sugnu, dici, avissi, pozzu, hâ, sì, aspetta, avìssiru, fa -->
+    <feat name="VerbForm" value="Fin" upos="AUX,VERB">1440</feat><!-- era, è, dissi, avìa, avia, stava, sugnu, fici, vitti, dici -->
+    <feat name="VerbForm" value="Ger" upos="VERB">52</feat><!-- jennu, vidennu, summuzzannu, Sintennu, dicennu, parrannu, putennu, scutulànnu, 'llavancànnu, 'spittannu -->
+    <feat name="VerbForm" value="Inf" upos="AUX,VERB">353</feat><!-- fari, diri, sapiri, jiri, stari, pigghiari, vìdiri, dari, natari, èssiri -->
+    <feat name="VerbForm" value="Part" upos="AUX,VERB">124</feat><!-- statu, vistu, mortu, ntisu, fattu, pututu, dittu, 'ntisu, abbannunatu, chiamatu -->
+  </feats>
+  <!-- Statistics of universal dependency relations. -->
+  <deps unique="42">
+    <dep name="acl">42</dep>
+    <dep name="acl:relcl">132</dep>
+    <dep name="advcl">237</dep>
+    <dep name="advmod">624</dep>
+    <dep name="amod">244</dep>
+    <dep name="appos">19</dep>
+    <dep name="aux">213</dep>
+    <dep name="aux:pass">11</dep>
+    <dep name="case">884</dep>
+    <dep name="cc">418</dep>
+    <dep name="ccomp">176</dep>
+    <dep name="ccomp:reported">12</dep>
+    <dep name="compound">9</dep>
+    <dep name="conj">493</dep>
+    <dep name="cop">141</dep>
+    <dep name="csubj">4</dep>
+    <dep name="det">1217</dep>
+    <dep name="det:poss">54</dep>
+    <dep name="det:predet">24</dep>
+    <dep name="discourse">22</dep>
+    <dep name="dislocated">11</dep>
+    <dep name="expl">328</dep>
+    <dep name="expl:impers">11</dep>
+    <dep name="expl:pass">1</dep>
+    <dep name="expl:pv">3</dep>
+    <dep name="fixed">66</dep>
+    <dep name="flat:name">27</dep>
+    <dep name="iobj">247</dep>
+    <dep name="mark">502</dep>
+    <dep name="nmod">281</dep>
+    <dep name="nsubj">679</dep>
+    <dep name="nsubj:outer">5</dep>
+    <dep name="nsubj:pass">11</dep>
+    <dep name="nummod">44</dep>
+    <dep name="obj">549</dep>
+    <dep name="obl">626</dep>
+    <dep name="obl:agent">10</dep>
+    <dep name="parataxis">177</dep>
+    <dep name="punct">1903</dep>
+    <dep name="root">505</dep>
+    <dep name="vocative">34</dep>
+    <dep name="xcomp">208</dep>
+  </deps>
+</treebank>
